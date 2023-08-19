@@ -1,0 +1,4 @@
+# Sangeet-Musicplayer-App
+Sangeet is a musicplayer app developed in Java using Android Studio. It is designed to provide a seamless and enjoyable music listening experience to its users. The app has a simple and intuitive user interface that makes it easy for users to navigate through the different features.Overall, Sangeet is a well-designed music app that offers a variety of features to enhance the music listening experience of its users. With its sleek design, high-quality sound, and comprehensive music library, it is an app that music lovers will enjoy using.
+
+Cloning---- You can clone this project by copying the repo link Use git-bash open your desired dir paste the copied link as follows ===> [git clone ' ...Paste here...'] Open project in Android-Studio let the gradle sync and build Run the app on your phone.......
